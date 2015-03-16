@@ -1,0 +1,61 @@
+
+		#folksonomy {
+		  margin: auto;
+		  margin-top:10px;
+		  width: 60%;
+		  font: 100% Verdana, Geneva, Arial, Helvetica, sans-serif;
+		}
+
+		#folksonomy ul {
+		  list-style: none;
+		  margin: 0;
+		  padding: 0;
+		}
+
+		#folksonomy ul li {
+		  display: inline;
+		  padding: .2em;
+		  margin: 0;
+		}
+
+		#folksonomy ul li a {
+		  text-decoration: none;
+		  white-space: nowrap;
+		  padding:4px;
+		  font-family:"lucida grande",tahoma,verdana,arial;
+		}
+
+		#folksonomy ul li a:hover, #folksonomy ul li a:active, #folksonomy ul li a.selected {
+		  padding:3px;
+		  border:1px dotted #FD2B30;
+		  display:inline;
+		}
+	    
+			#folksonomy ul li.tag1 a {
+			  font-size: 1.0em !important;
+			  color: #3984e7;
+			}
+			#folksonomy ul li.tag2 a {
+			  font-size: 1.3em !important;
+			  color: #67a9ff;
+			}
+			#folksonomy ul li.tag3 a {
+			  font-size: 1.5em !important;
+			  color: #8fc0ff;
+			}
+			#folksonomy ul li.tag4 a {
+			  font-size: 1.9em !important;
+			  color: #afd2ff;
+			}
+			#folksonomy ul li.tag5 a {
+			  font-size: 2.2em !important;
+			  color: #c3ddff;
+			}
+			#folksonomy ul li.tag6 a {
+			  font-size: 2.4em !important;
+			  color: #e7f2ff;
+			}
+			#folksonomy ul li.tag7 a {
+			  font-size: 2.6em !important;
+			  color: #ffffff;
+			}
